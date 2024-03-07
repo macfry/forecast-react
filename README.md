@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Please make sure you have your own api key, more information available on [API Key](https://openweathermap.org/appid#apikey)
+
+Forecast is not available for free plans
+
 
 ## Available Scripts
 
